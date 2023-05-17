@@ -17,7 +17,7 @@ Please create a small website that generates an excuse each time a button is pre
 
 ## Discuss with your classmates the strategy first
 
-How can we generate an excuse? How are sentences built?
+How can we generate an excuse, How are sentences built?
 
 ![Excuse generator explanation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
